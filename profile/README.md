@@ -1,5 +1,6 @@
 ## About us
-DotSoft is a dedicated group working to create innovative resources for FiveM.
+
+Dotsoft is a full-stack digital studio that builds and scales brands end-to-end—naming, logos, 3D mockups, web & mobile apps, cloud hosting, packaging design—and even crafts high-quality game resources for platforms like FiveM. We ship prototypes in days, iterate on real data, and let founders focus on growth while we handle the heavy lifting.
 
 ## Documentation
 Coming Soon...
